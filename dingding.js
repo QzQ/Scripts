@@ -1,5 +1,5 @@
 const $ = new compatibility()
-const point = "shortcuts://run-shortcut?name=打卡"
+const point ="\"open-url\" : shortcuts://run-shortcut?name=打卡"
 
 $.notify("钉钉", "", "打卡啦", point)
 $done()
