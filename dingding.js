@@ -1,5 +1,5 @@
 const $ = new compatibility()
-const point = "dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html';"
+const point = "dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html"
 
 $.notify("钉钉", "", "打卡啦", point)
 $done()
