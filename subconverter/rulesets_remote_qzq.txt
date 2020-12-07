@@ -7,8 +7,7 @@
 📲 电报信息,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Telegram/Telegram.list
 📲 Twitter,https://raw.githubusercontent.com/QzQ/Scripts/master/Twitter.list
 🔰 全球其他,https://raw.githubusercontent.com/QzQ/Scripts/master/QzQ.list
-🔰 自定义,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Domain.list
-🔰 自定义,rules/DivineEngine/Surge/Ruleset/Global.list
+🔰 自定义,rules/Global.list
 🍎 苹果服务,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list
 🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/China/China.list
 🎯 全球直连,[]GEOIP,CN
